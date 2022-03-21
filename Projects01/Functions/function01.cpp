@@ -31,7 +31,6 @@ int main() {
   cout << "x: ";
   cin >> xUser;
   cout << "f(x) = 2x + a - 3 = " << f(xUser);
-  cin.get();
   
   return 0;
 }
