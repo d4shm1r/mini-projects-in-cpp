@@ -27,7 +27,7 @@ int main() {
     cout << "b: ";
     cin >> bUser;
 
-    if (aUser < bUser) {
+    if (aUser > bUser) {
         cout << "A eshte me e madhe se B!";
     } else {
         cout << "B eshte me e madhe se A!";
